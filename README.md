@@ -11,10 +11,3 @@ npm install
 npm run start
 ```
 5. Now, navigate to http://localhost:3000
-
-- [x] Have a user management system with authentication that allows users to register and login on the site.
-- [x] Create a team and be able to invite users to the team.
-- [x] Create a poll with variable number of text options within the team.
-- [x] Create a dashboard for a team and display the polls in chronological order.
-- [x] Show the results of poll after admin ends it.
-- [x] Design a neat, intuitive UI ( make the site responsive, legible text, etc ).
