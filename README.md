@@ -1,4 +1,4 @@
-# Poll Booth
+# Voting Application
 ## Setup and Getting Started
 1. Download or clone this repo to your local system.
 2. For this repo, you have to create your own `config.env` file or rename the `config.txt` file to `config.env`, which is provided as an example for the contents to be filled in .env file.
